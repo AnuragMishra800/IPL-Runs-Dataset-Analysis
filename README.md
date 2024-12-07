@@ -72,4 +72,5 @@ Balancing Analysis with Insights: Focusing on both granular details and the bigg
 This is one of my first data analysis projects, and I’m eager to improve. If you have suggestions, critiques, or ideas, feel free to share! Let’s connect and discuss data analytics, cricket, or both. 🙌
 
 ## 🔗 Connect with Me  
-- **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/) 
+- **LinkedIn**: [Anurag Mishra](https://www.linkedin.com/in/anurag-mishra-b17051288/)  
+
