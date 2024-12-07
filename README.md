@@ -48,7 +48,6 @@ The aim? To sharpen my data analytics skills while diving into the cricketing wo
 
 ## 📂 Project Structure  
 
-```plaintext
 IPL-Runs-Analysis/
 │
 ├── IPL_Runs_Analysis.ipynb  # Jupyter Notebook with code and analysis  
